@@ -1,5 +1,0 @@
-Ime Prezime Broj Bodova
-Mate Matkovic 22
-Jure Jurkovic 0
-Ante Antic 87
-Petar Peric 11
