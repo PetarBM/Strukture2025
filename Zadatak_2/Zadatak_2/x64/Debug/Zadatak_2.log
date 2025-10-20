@@ -1,0 +1,6 @@
+﻿  Zadatak_2.c
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_2\Zadatak_2\Zadatak_2.c(107,14): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_2\Zadatak_2\Zadatak_2.c(109,4): warning C4098: 'printList': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_2\Zadatak_2\Zadatak_2.c(130,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_2\Zadatak_2\Zadatak_2.c(133,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Zadatak_2.vcxproj -> C:\Users\petar\Desktop\StrukturePodataka\Zadatak_2\x64\Debug\Zadatak_2.exe
