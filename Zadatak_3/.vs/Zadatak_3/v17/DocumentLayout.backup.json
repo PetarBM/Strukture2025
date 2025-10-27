@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132AE9EE-B300-46CD-9F00-38165B6842D1}|Zadatak_3\\Zadatak_3.vcxproj|C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\Zadatak_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{132AE9EE-B300-46CD-9F00-38165B6842D1}|Zadatak_3\\Zadatak_3.vcxproj|solutionrelative:Zadatak_3\\Zadatak_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132AE9EE-B300-46CD-9F00-38165B6842D1}|Zadatak_3\\Zadatak_3.vcxproj|C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\listaImena.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{132AE9EE-B300-46CD-9F00-38165B6842D1}|Zadatak_3\\Zadatak_3.vcxproj|solutionrelative:Zadatak_3\\listaImena.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listaImena.txt",
+              "DocumentMoniker": "C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\listaImena.txt",
+              "RelativeDocumentMoniker": "Zadatak_3\\listaImena.txt",
+              "ToolTip": "C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\listaImena.txt",
+              "RelativeToolTip": "Zadatak_3\\listaImena.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-25T17:23:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak_3.c",
+              "DocumentMoniker": "C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\Zadatak_3.c",
+              "RelativeDocumentMoniker": "Zadatak_3\\Zadatak_3.c",
+              "ToolTip": "C:\\Users\\petar\\Desktop\\StrukturePodataka\\Zadatak_3\\Zadatak_3\\Zadatak_3.c",
+              "RelativeToolTip": "Zadatak_3\\Zadatak_3.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-25T12:40:42.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

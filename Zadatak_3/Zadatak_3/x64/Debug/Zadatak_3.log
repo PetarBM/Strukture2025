@@ -1,0 +1,23 @@
+﻿  Zadatak_3.c
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(16,9): warning C4005: 'EXIT_FAILURE': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdlib.h(53,9):
+      see previous definition of 'EXIT_FAILURE'
+  
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(68,11): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(117,3): warning C4098: 'createPerson': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(137,2): warning C4098: 'createPerson': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(152,2): warning C4098: 'addToTheFrontOfList': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(168,2): warning C4098: 'addToTheEnd': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(178,4): warning C4098: 'printList': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(184,2): warning C4098: 'printList': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(206,2): warning C4098: 'findBySurname': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(235,2): warning C4098: 'eraseElement': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(265,2): warning C4098: 'addAfter': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(295,2): warning C4098: 'addInFront': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(304,3): warning C4098: 'saveListToFile': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(315,2): warning C4098: 'saveListToFile': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(326,3): warning C4098: 'readListFromFile': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(351,2): warning C4098: 'readListFromFile': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(359,3): warning C4098: 'sortBySurname': 'void' function returning a value
+C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\Zadatak_3\Zadatak_3.c(393,2): warning C4098: 'sortBySurname': 'void' function returning a value
+  Zadatak_3.vcxproj -> C:\Users\petar\Desktop\StrukturePodataka\Zadatak_3\x64\Debug\Zadatak_3.exe
